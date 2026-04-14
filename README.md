@@ -118,4 +118,4 @@ Full interactive docs → `http://localhost:8000/docs`
 
 ## 📄 License
 
-MIT — free to use, modify, and showcase in your portfolio.
+MIT
