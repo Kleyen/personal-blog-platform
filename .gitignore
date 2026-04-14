@@ -1,0 +1,46 @@
+# ── Python ───────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+.venv/
+venv/
+env/
+
+# SQLite dev database
+*.db
+*.sqlite3
+
+# ── Environment & secrets ─────────────────────────────────────────────────────
+.env
+*.env.local
+*.env.*.local
+
+# ── Node / Frontend ───────────────────────────────────────────────────────────
+node_modules/
+frontend/dist/
+frontend/.vite/
+
+# ── OS & editors ──────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# ── Alembic auto-generated versions (keep your own migrations) ────────────────
+# backend/alembic/versions/   ← intentionally not ignored
+
+# ── Misc ──────────────────────────────────────────────────────────────────────
+*.log
+*.pid
+coverage/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
