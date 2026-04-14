@@ -105,16 +105,6 @@ Full interactive docs → `http://localhost:8000/docs`
 
 ---
 
-## 🧩 Suggested Next Steps
-
-- [ ] Add `@tailwindcss/typography` for beautiful post rendering
-- [ ] Swap SQLite → PostgreSQL for production
-- [ ] Add image upload (Cloudinary / S3)
-- [ ] Add tags / categories to posts
-- [ ] Add pagination to the home feed
-- [ ] Deploy backend to Railway / Render, frontend to Vercel / Netlify
-
----
 
 ## 📄 License
 
